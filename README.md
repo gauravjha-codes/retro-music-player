@@ -1,7 +1,5 @@
 # Retro Music Player
-
-![image](https://github.com/user-attachments/assets/aada24a0-a06c-4169-b5aa-35f985e11ad7)
-
+![image](https://github.com/user-attachments/assets/6acb2099-8b59-4920-83a5-d70c0d416200)
 
 
 The Retro Music Player is a sophisticated Python-based application designed to deliver a nostalgic yet functional audio playback experience. Inspired by the aesthetics of the 80s and 90s, this software provides a seamless way to enjoy local audio files with a modern twist, featuring a dynamic pixelated visualizer and customizable themes.
