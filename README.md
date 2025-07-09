@@ -37,7 +37,7 @@ python retro_music_player.py
 ```
 
 ## Usage
-**Add Tracks**: Drag and drop audio files into the player or use the "Add Tracks" button.
-**Play Music**: Select a track from the playlist and click "Play" to start.
-**Customize**: Switch themes using the theme buttons and adjust the equalizer sliders.
-**Manage Playlist**: Save your current playlist or load a previous one using the respective buttons.
+- **Add Tracks**: Drag and drop audio files into the player or use the "Add Tracks" button.
+- **Play Music**: Select a track from the playlist and click "Play" to start.
+- **Customize**: Switch themes using the theme buttons and adjust the equalizer sliders.
+- **Manage Playlist**: Save your current playlist or load a previous one using the respective buttons.
