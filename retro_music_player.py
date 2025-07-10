@@ -40,7 +40,7 @@ class RetroMusicPlayer(QMainWindow):
         self.is_playing = False
         self.is_shuffled = False
         self.is_repeated = False
-        self.crossfade_duration = 2.0  # Seconds
+        self.crossfade_duration = 2.0  
         
         pygame.mixer.init()
         self.progress_timer = QTimer(self)
